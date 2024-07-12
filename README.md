@@ -25,7 +25,7 @@ Ici et là
                 Fetch URL: git@github.com:DamienS-38/temp.git
                 Push  URL: git@github.com:DamienS-38/temp.git
                 HEAD branch: (unknown)	
-        git push -u origin main
+        git push -u origin main (-u que la 1ere fois)
 
 
 
@@ -33,8 +33,9 @@ Ici et là
 
 Modif sur un fichier
 
-    git add README.md
+    -Faire une modif en local
+    -git add . (Le '.' est pour add tout le répertoire - Ex: git add README.md)
 
-    git commit -m "Modif readMe"
+    -git commit -m "message du commit" (Message de ce que tu as fait)
 
-    git push -u origin main
+    -git push origin main (-u setupstream/ renseignement, pousser les modifs locales vers GitHub)
