@@ -6,6 +6,9 @@ différence entre >Git et GithUB
 Ici et là
 
 Modif sur un fichier
-    git add README.md /p
-    git commit -m "Modif readMe" /n
+
+    git add README.md
+
+    git commit -m "Modif readMe"
+
     git push -u origin main
