@@ -3,7 +3,7 @@ différence entre >Git et GithUB
     Git --> OpenSource: Versionning de code
     GitHub --> Plateforme hébergement
 
-Ici et là
+Se mettre dans le dossier de travail (../documents/Git/temp/)
 
 1er Enregistrement:
 
