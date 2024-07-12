@@ -35,7 +35,5 @@ Modif sur un fichier
 
     -Faire une modif en local
     -git add . (Le '.' est pour add tout le répertoire - Ex: git add README.md)
-
     -git commit -m "message du commit" (Message de ce que tu as fait)
-
     -git push origin main (-u setupstream/ renseignement, pousser les modifs locales vers GitHub)
